@@ -1,0 +1,50 @@
+.create {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.create h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.create button {
+    width: 100%;
+    margin: 1rem auto;
+    background-color: rgb(86, 86, 86);
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container th {
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgb(65, 218, 249);
+}
+
+#edit {
+    color: rgb(247, 242, 178);
+}
+
+.material-icons  {
+    color: rgb(250, 101, 101);
+}
+
+td.baixa {
+    color: rgb(43, 255, 0);
+}
+
+td.media {
+    color: rgb(255, 230, 0);
+}
+
+td.alta {
+    color: rgb(189, 59, 59);
+}

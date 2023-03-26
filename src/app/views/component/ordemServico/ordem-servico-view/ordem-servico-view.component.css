@@ -1,0 +1,44 @@
+.container h1 {   
+    text-align: center;
+    color: rgb(241, 225, 100);
+    margin-bottom: 2rem;
+    font: bold 1.5rem 'Helvetica';
+}
+
+.edit {
+    border-radius: 10px;
+    margin-bottom: 5%;
+  
+}
+
+#abertura {
+    padding: 2% 2% 0 0;
+    text-align: end;
+
+}
+
+.container {
+    
+    width: 70%;
+    margin: auto;    
+}
+
+#texto {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 2%;
+    font-size: 1.3rem;
+}
+
+.botao { 
+    justify-content: center;      
+    display: flex;
+    width: 100%;
+    
+}
+
+button {
+    width: 50%;
+    margin-top: 3%;
+    
+}

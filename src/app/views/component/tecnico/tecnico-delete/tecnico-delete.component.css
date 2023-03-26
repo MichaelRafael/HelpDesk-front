@@ -1,0 +1,27 @@
+.form {
+    width: 40%;
+    margin: auto;
+}
+
+.form h1 {
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 3rem;
+    font-size: 2rem;
+
+}
+
+.full-width {
+    width: 100%;
+    
+}
+
+.botao {
+   display: flex;    
+
+}
+
+.botao button {
+    width: 40%;      
+    margin: 1.5rem auto 0 auto;     
+}

@@ -1,0 +1,11 @@
+.container {
+    height: 83%;
+}
+
+.material-icons {    
+    margin-right: .8rem;       
+}
+
+button {
+    margin: .6rem auto 0 .6rem;
+}

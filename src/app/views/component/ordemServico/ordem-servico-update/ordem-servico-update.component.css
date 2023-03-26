@@ -1,0 +1,43 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.container h1 {   
+    text-align: center;
+    color: rgb(241, 225, 100);
+    margin-bottom: 2rem;
+    font: bold 1.5rem 'Helvetica';
+}
+
+.labels {
+    display: flex;   
+    justify-content: space-between;    
+}
+
+.labels mat-label {
+    width: 30px;
+    font: normal .8rem 'Helvetica', 'sans-serif';
+    
+}
+
+.full-width {
+    width: 100%;
+    margin: auto;
+}
+
+textarea {
+    min-height: 6rem;
+    max-height: 15rem;
+    
+}
+
+.botao {
+    display: flex;    
+ 
+ }
+ 
+ .botao button {
+     width: 30%;      
+     margin: 1.5rem auto 0 auto;     
+ }
